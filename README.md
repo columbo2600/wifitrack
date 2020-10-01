@@ -14,3 +14,6 @@ Installation Instructions for Kali 2020.3 Live Media:
 5. Install the rest of the dependencies with the dependencies with the following command "pip install gps scapy"
 6. Navigate to the folder with wifitrack.  (ex. "cd /home/kali/Downloads")
 7. Run wifitrack "python2 wifitrack.py"
+
+(Update: Python 3 version now available. If you choose that version make sure you install python3-pip
+instead of python-pip.  When installing gps and scapy modules use the command "pip3 install gps scapy".)
